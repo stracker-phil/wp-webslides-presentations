@@ -1,0 +1,52 @@
+.wp-admin .wp-block {
+	.wp-block-webslides-headline {
+		border: 0;
+		font: inherit;
+		font-size: 100%;
+		margin: 0;
+		padding: 0;
+		vertical-align: baseline;
+		color: inherit;
+		font-family: inherit;
+	}
+
+	h1.wp-block-webslides-headline {
+		font-size: 56px;
+		line-height: 72px;
+
+		span {
+			font-style: italic;
+		}
+	}
+
+	h2.wp-block-webslides-headline {
+		font-size: 48px;
+		line-height: 64px;
+	}
+
+	h3.wp-block-webslides-headline {
+		font-size: 40px;
+		line-height: 56px;
+	}
+
+	h4.wp-block-webslides-headline {
+		font-size: 32px;
+		line-height: 48px;
+	}
+
+	h5.wp-block-webslides-headline {
+		font-size: 20px;
+		line-height: 32px;
+		font-weight: 600;
+	}
+
+	h6.wp-block-webslides-headline {
+		font-size: 18px;
+		line-height: 32px;
+		font-weight: 600;
+	}
+
+	.wp-block-webslides-headline + .wp-block-webslides-headline {
+		margin-top: 8px;
+	}
+}

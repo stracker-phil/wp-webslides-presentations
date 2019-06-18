@@ -22,7 +22,7 @@ export default registerBlockType(
 	'webslides/headline',
 	{
 		title: __( 'Headline', 'webslides' ),
-		description: __( 'Display a Headline.', 'webslides' ),
+		description: __( 'Most likely the title of a slide or a section of the slide.', 'webslides' ),
 		category: 'common',
 		parent: ['webslides/slide'],
 		icon: {

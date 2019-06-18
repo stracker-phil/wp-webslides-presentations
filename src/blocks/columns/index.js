@@ -21,9 +21,9 @@ import save from './save.js';
 export default registerBlockType(
 	'webslides/slide',
 	{
-		title: __( 'Slide', 'webslides' ),
-		description: __( 'Block description.', 'webslides' ),
-		category: 'common',
+		title: __( 'Columns', 'webslides' ),
+		description: __( 'Add a block that displays content in multiple columns, then add whatever content blocks you’d like.', 'webslides' ),
+		category: 'layout',
 		icon: {
 		  	src: icon,
 		},

@@ -11,4 +11,10 @@
         line-height: 1;
         text-rendering: optimizeLegibility;
     }
+
+    section.bg-apple {
+        color: #fff;
+        text-shadow: 0 1px 0 #013;
+        background: linear-gradient(to bottom, #000 0%, #1a2028 50%, #293845 100%);
+    }
 }

@@ -20,8 +20,8 @@ import save from './save';
 export default registerBlockType(
 	'webslides/paragraph',
 	{
-		title: __( 'Paragraph' ),
-		description: __( 'Start with the building block of all narrative.' ),
+		title: __( 'Paragraph', 'webslides' ),
+		description: __( 'Add details to your presentation.', 'webslides' ),
 		category: 'common',
 		parent: ['webslides/slide'],
 		icon: {

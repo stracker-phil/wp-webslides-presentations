@@ -22,8 +22,8 @@ export default registerBlockType(
 	'webslides/slide',
 	{
 		title: __( 'Slide', 'webslides' ),
-		description: __( 'Block description.', 'webslides' ),
-		category: 'common',
+		description: __( 'A slide is always displayed in full-screen. It contains any other presentation blocks you want.', 'webslides' ),
+		category: 'common', // Not "layout" because it's the only block available on page level.
 		icon: {
 		  	src: icon,
 		},

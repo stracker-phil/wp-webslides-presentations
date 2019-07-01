@@ -7,7 +7,6 @@
  * @license     GPL2+
  *
  * Plugin Name: Webslides Presentations
- * Plugin URI:  https://philippstracker.com
  * Description: Create professional presentations directly in WordPress using the Webslides-Framework and Gutenberg.
  * Version:     1.0.0
  * Author:      Philipp Stracker
